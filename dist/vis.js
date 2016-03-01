@@ -2,7 +2,7 @@
 'use strict';
 
 exports.DataSet = require('./lib/DataSet');
-exports.Timeline = require('./lib/network/Network');
+exports.Network = require('./lib/network/Network');
 
 },{"./lib/DataSet":2,"./lib/network/Network":10}],2:[function(require,module,exports){
 'use strict';
